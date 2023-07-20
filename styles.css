@@ -14,3 +14,15 @@ div {
 	text-align: center;
 	padding: 20px;
 }
+
+.mac {
+	background-color: yellow;
+}
+
+.rice {
+	background-color: white;
+}
+
+.soup {
+	background-color: red;
+}
