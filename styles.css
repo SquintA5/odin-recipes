@@ -3,6 +3,7 @@ body {
 	font-family: "Garamond", sans-serif;
 	margin: 250px;
 	border: 5px solid red;
+	overflow: auto;
 }
 
 h1 {
@@ -14,6 +15,7 @@ div {
 	text-align: center;
 	padding: 20px;
 }
+
 
 .mac {
 	background-color: yellow;
