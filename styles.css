@@ -3,7 +3,6 @@ body {
 	font-family: "Garamond", sans-serif;
 	margin: 250px;
 	border: 5px solid red;
-	overflow: auto;
 }
 
 h1 {
